@@ -718,8 +718,8 @@ header .inner li:hover a{
 #Contact .inner{
     width: 1200px;
     margin: 0 auto;
-    padding-top: 140px;
     position: relative;
+    padding-top: 140px;
 }
 
 #Contact .inner .contact{
